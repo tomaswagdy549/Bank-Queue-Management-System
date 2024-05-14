@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1708479052 source:d:\iti-9months\data structure\project\main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	<string>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"Bank.h"
+
+1708484903 d:\iti-9months\data structure\project\include\bank.h
+	"Employee.h"
+	"Clients.h"
+	"ClientStatus.h"
+	"Client.h"
+
+1708474824 d:\iti-9months\data structure\project\include\employee.h
+	"Clients.h"
+	"ClientStatus.h"
+
+1708269685 d:\iti-9months\data structure\project\include\clients.h
+	"Client.h"
+
+1708486104 d:\iti-9months\data structure\project\include\clientstatus.h
+	"Event.h"
+
+1708483745 d:\iti-9months\data structure\project\include\event.h
+
+1707922422 d:\iti-9months\data structure\project\include\client.h
+
+1708639068 source:d:\iti-9months\data structure\tomas wagdy ghobrial\main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	<string>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"Bank.h"
+
+1715101905 d:\iti-9months\data structure\tomas wagdy ghobrial\include\bank.h
+	"Employee.h"
+	"Clients.h"
+	"ClientStatus.h"
+	"Client.h"
+
+1708478424 d:\iti-9months\data structure\tomas wagdy ghobrial\include\employee.h
+	"Clients.h"
+	"ClientStatus.h"
+
+1715100378 d:\iti-9months\data structure\tomas wagdy ghobrial\include\clients.h
+	"Client.h"
+
+1707926022 d:\iti-9months\data structure\tomas wagdy ghobrial\include\client.h
+
+1708711876 d:\iti-9months\data structure\tomas wagdy ghobrial\include\clientstatus.h
+	"Event.h"
+
+1708487345 d:\iti-9months\data structure\tomas wagdy ghobrial\include\event.h
+
